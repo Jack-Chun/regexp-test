@@ -48,7 +48,7 @@ replace | `문자열.replace(정규식, 대체문자)` | 일치하는 문자를 
 
 플래그 | 설명
 --|--
-q | 모든 문자 일치(global)
+g | 모든 문자 일치(global)
 i | 영어 대소문자를 구분 않고 일치(ignore case)
 m | 여러 줄 일치(multi line)
 
